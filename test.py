@@ -47,7 +47,7 @@
 
 # def user_cs(username):###username是形参
 #     print('hello'+username)
-# user_cs('kall')#实参'''
+# user_cs('kall')#实参'''212
 def get_name(first_name, last_name, mid_name=''):
     if mid_name:#判断mid_name为ture也就是有数据
         full_name=first_name+' '+mid_name+' '+last_name
